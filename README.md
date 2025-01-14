@@ -42,4 +42,4 @@ flowchart TB
 
     class UI,PWGen,ClientCrypto frontend
     class API,Auth,PWManager,PWEncryption backend
-    class MySQL database
+    class MySQL database 
